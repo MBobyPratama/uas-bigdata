@@ -5,10 +5,11 @@ Proyek ini adalah tugas praktikum Big Data (Kelompok 2) yang menganalisis tren u
 🌐 **Live Demo Dashboard:** [uas-bigdata-kel2.streamlit.app](https://uas-bigdata-kel2.streamlit.app/)
 
 ## 👥 Anggota Kelompok 2
-1. **[Nama Anggota 1]** - [NIM]
-2. **[Nama Anggota 2]** - [NIM]
-3. **[Nama Anggota 3]** - [NIM]
-4. **[Nama Anggota 4]** - [NIM]
+1. **Muhammad Boby Pratama** - 2310512056
+2. **Rigi Yoga Sumarta** - 2310512060
+3. **Indira Dwi Febrian** - 2310512062
+4. **Nadia Fadhilatun Nisa** - 2310512064
+5. **Kayla Alisha Rania** - 2310512107
 
 ---
 
