@@ -2,6 +2,8 @@
 
 Proyek ini adalah tugas praktikum Big Data (Kelompok 2) yang menganalisis tren ulasan, perilaku konsumen, pemodelan analisis faktor kepuasan konsumen (Harbolnas), klasifikasi sentimen ulasan menggunakan SVM, serta peramalan volume ulasan menggunakan FB Prophet. Dashboard visualisasi interaktif dibangun menggunakan Streamlit.
 
+🌐 **Live Demo Dashboard:** [uas-bigdata-kel2.streamlit.app](https://uas-bigdata-kel2.streamlit.app/)
+
 ## 👥 Anggota Kelompok 2
 1. **[Nama Anggota 1]** - [NIM]
 2. **[Nama Anggota 2]** - [NIM]
